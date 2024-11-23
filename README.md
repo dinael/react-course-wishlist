@@ -1,1 +1,1 @@
-# react-course-wishlist
+# react-wishlist
